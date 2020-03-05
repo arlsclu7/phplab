@@ -1,0 +1,117 @@
+2020-01-21 15:07:00
+[]
+2020-01-21 15:07:47
+[
+    "task01",
+    "task02",
+    "task03",
+    "task04",
+    "task05"
+]
+2020-01-21 15:08:05
+[
+    "task01",
+    "task01",
+    "task01",
+    "task01"
+]
+2020-01-21 15:08:58
+[]
+2020-01-21 15:09:50
+[
+    {
+        "date": "2020-01-21 15:09:50.487102",
+        "timezone_type": 3,
+        "timezone": "Asia\/Shanghai"
+    }
+]
+2020-01-21 15:18:28
+{
+    "server": {
+        "TMPDIR": "\/var\/folders\/hg\/2611_glj67z9lj50fnz6fvm80000gn\/T\/",
+        "__CF_USER_TEXT_ENCODING": "0x1F5:0x0:0x0",
+        "SHELL": "\/bin\/zsh",
+        "HOME": "\/Users\/arlsclu",
+        "Apple_PubSub_Socket_Render": "\/private\/tmp\/com.apple.launchd.a9X1ITqurO\/Render",
+        "SSH_AUTH_SOCK": "\/private\/tmp\/com.apple.launchd.qwRWjlpAam\/Listeners",
+        "PATH": "\/usr\/local\/bin:\/usr\/local\/sbin:\/usr\/local\/bin:\/usr\/bin:\/bin:\/usr\/sbin:\/sbin:\/usr\/local\/sbin",
+        "LOGNAME": "arlsclu",
+        "XPC_SERVICE_NAME": "0",
+        "USER": "arlsclu",
+        "XPC_FLAGS": "0x0",
+        "HOMEBREW_BOTTLE_DOMAIN": "https:\/\/mirrors.ustc.edu.cn\/homebrew-bottles",
+        "LESS": "-R",
+        "LSCOLORS": "Gxfxcxdxbxegedabagacad",
+        "OLDPWD": "\/usr\/local\/var\/code\/phplab",
+        "PAGER": "less",
+        "PWD": "\/usr\/local\/var\/code\/phplab\/redis",
+        "SHLVL": "1",
+        "ZSH": "\/Users\/arlsclu\/.oh-my-zsh",
+        "TERM_PROGRAM": "vscode",
+        "TERM_PROGRAM_VERSION": "1.41.1",
+        "LANG": "en_US.UTF-8",
+        "COLORTERM": "truecolor",
+        "TERM": "xterm-256color",
+        "_": "\/usr\/local\/bin\/php",
+        "PHP_SELF": "prod_cons.php",
+        "SCRIPT_NAME": "prod_cons.php",
+        "SCRIPT_FILENAME": "prod_cons.php",
+        "PATH_TRANSLATED": "prod_cons.php",
+        "DOCUMENT_ROOT": "",
+        "REQUEST_TIME_FLOAT": 1579591108.32857,
+        "REQUEST_TIME": 1579591108,
+        "argv": [
+            "prod_cons.php"
+        ],
+        "argc": 1
+    }
+}
+2020-01-21 15:19:33
+{
+    "server": {
+        "TMPDIR": "/var/folders/hg/2611_glj67z9lj50fnz6fvm80000gn/T/",
+        "__CF_USER_TEXT_ENCODING": "0x1F5:0x0:0x0",
+        "SHELL": "/bin/zsh",
+        "HOME": "/Users/arlsclu",
+        "Apple_PubSub_Socket_Render": "/private/tmp/com.apple.launchd.a9X1ITqurO/Render",
+        "SSH_AUTH_SOCK": "/private/tmp/com.apple.launchd.qwRWjlpAam/Listeners",
+        "PATH": "/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/sbin",
+        "LOGNAME": "arlsclu",
+        "XPC_SERVICE_NAME": "0",
+        "USER": "arlsclu",
+        "XPC_FLAGS": "0x0",
+        "HOMEBREW_BOTTLE_DOMAIN": "https://mirrors.ustc.edu.cn/homebrew-bottles",
+        "LESS": "-R",
+        "LSCOLORS": "Gxfxcxdxbxegedabagacad",
+        "OLDPWD": "/usr/local/var/code/phplab",
+        "PAGER": "less",
+        "PWD": "/usr/local/var/code/phplab/redis",
+        "SHLVL": "1",
+        "ZSH": "/Users/arlsclu/.oh-my-zsh",
+        "TERM_PROGRAM": "vscode",
+        "TERM_PROGRAM_VERSION": "1.41.1",
+        "LANG": "en_US.UTF-8",
+        "COLORTERM": "truecolor",
+        "TERM": "xterm-256color",
+        "_": "/usr/local/bin/php",
+        "PHP_SELF": "prod_cons.php",
+        "SCRIPT_NAME": "prod_cons.php",
+        "SCRIPT_FILENAME": "prod_cons.php",
+        "PATH_TRANSLATED": "prod_cons.php",
+        "DOCUMENT_ROOT": "",
+        "REQUEST_TIME_FLOAT": 1579591173.790217,
+        "REQUEST_TIME": 1579591173,
+        "argv": [
+            "prod_cons.php"
+        ],
+        "argc": 1
+    }
+}
+2020-01-21 15:21:28
+
+2020-01-21 15:21:47
+
+2020-01-21 15:23:54
+
+2020-01-21 15:24:03
+
