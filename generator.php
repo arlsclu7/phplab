@@ -37,10 +37,10 @@ $gen = gen();
 $gen->send(5);
 echo PHP_EOL,'***',PHP_EOL;
 $gen->send(6);
-// foreach($gen as $v) {
+// foreach($gen as $v) {s
 //     echo $v;PHP_EOL;
 // }
-// echo $gen->getReturn();
+// echo $gen->getReturn();s
 //current 
 
 

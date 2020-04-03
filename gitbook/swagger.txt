@@ -1,0 +1,7 @@
+ *  @OA\Schema(
+ *     schema="goods_detail_index_respons_curr_goods_sku_goods_sku_package",
+ *     @OA\Property(property="spec_id",type="integer",description="规格id",default="",example=1),
+ *     @OA\Property(property="spec_name",type="string",description="规格名称",default="",example=""),
+ *     @OA\Property(property="spec_value_id",type="integer",description="规格值id",default="",example=""),
+ *     @OA\Property(property="spec_value",type="string",description="规格",default="",example=""),
+ * )
