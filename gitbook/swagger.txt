@@ -1,7 +1,8 @@
  *  @OA\Schema(
- *     schema="goods_detail_index_respons_curr_goods_sku_goods_sku_package",
- *     @OA\Property(property="spec_id",type="integer",description="规格id",default="",example=1),
- *     @OA\Property(property="spec_name",type="string",description="规格名称",default="",example=""),
- *     @OA\Property(property="spec_value_id",type="integer",description="规格值id",default="",example=""),
- *     @OA\Property(property="spec_value",type="string",description="规格",default="",example=""),
- * )
+ *     schema="goods_search_detail_ext_promotions",
+ *     @OA\Property(property="promotions_type",type="string",description="促销活动类型",example=""),
+ *     @OA\Property(property="promotions_id",type="string",description="促销活动类型唯一标识",example=""),
+ *     @OA\Property(property="name",type="string",description="促销名称",example=""),
+ *     @OA\Property(property="promotions_tag",type="string",description="促销活动标签",example="满减"),
+ *     @OA\Property(property="description",type="array",description="促销描述",@OA\Items(type="string",example="满100减20，送优惠券；")),
+ *  ),
