@@ -1,4 +1,4 @@
-select  *  from  t_city_achiev_city
+select  *  from  t_city_store
 where city_id in (
 109,
 110,
@@ -67,7 +67,7 @@ where city_id in (
 /**
 */
 ##南通
-update t_city_achiev_city set achiev_city_id =114, achiev_city_name ='南通'
+update t_city_store set store_id ='046'
 where city_id in (
 109,
 110,
@@ -81,7 +81,7 @@ where city_id in (
 );
 
 ##杭州
-update t_city_achiev_city set achiev_city_id =122, achiev_city_name ='杭州'
+update t_city_store set store_id ='027'
 where city_id in (
 125,
 126,
@@ -89,20 +89,20 @@ where city_id in (
 );
 
 ##宁波
-update t_city_achiev_city set achiev_city_id =123, achiev_city_name ='宁波'
+update t_city_store set store_id ='051'
 where city_id in (
 128,
 129
 );
 
 ##温州
-update t_city_achiev_city set achiev_city_id =124, achiev_city_name ='温州'
+update t_city_store set store_id ='037'
 where city_id  in (
 131
 );
 
 ##大连
-update t_city_achiev_city set achiev_city_id =72, achiev_city_name ='大连'
+update t_city_store set store_id ='013'
 where city_id  in (
 71,
 74,
@@ -114,7 +114,7 @@ where city_id  in (
 );
 
 ##西安
-update t_city_achiev_city set achiev_city_id =326, achiev_city_name ='西安'
+update t_city_store set store_id ='014'
 where city_id in (
 336,
 337,
@@ -133,7 +133,7 @@ where city_id in (
 );
 
 ##广州
-update t_city_achiev_city set achiev_city_id =232, achiev_city_name ='广州'
+update t_city_store set store_id ='038'
 where city_id in (
 253,
 254,
@@ -152,7 +152,7 @@ where city_id in (
 );
 
 ##西安
-update t_city_achiev_city set achiev_city_id =326, achiev_city_name ='西安'
+update t_city_store set store_id ='014'
 where city_id in (
 350,
 351,
@@ -165,7 +165,7 @@ where city_id in (
 );
 
 ##乌鲁木齐
-update t_city_achiev_city set achiev_city_id =363, achiev_city_name ='乌鲁木齐'
+update t_city_store set store_id ='022'
 where city_id  in (
 358,
 359,
