@@ -11,7 +11,7 @@ select  distinct concat(achiev_city_id,',')  from t_city_achiev_city where achie
 '银川'
 )
 
-
+##需要更新的achiev_city_id  t_city_achiev_city
 109,
 125,
 126,

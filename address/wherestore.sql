@@ -66,7 +66,7 @@ where city_id in (
 362
 );
 
-
+##需要更新的store_id   t_city_store
 016,
 019,
 021,
