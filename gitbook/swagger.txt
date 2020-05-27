@@ -1,8 +1,8 @@
- *  @OA\Schema(
- *     schema="goods_search_detail_ext_promotions",
- *     @OA\Property(property="promotions_type",type="string",description="促销活动类型",example=""),
- *     @OA\Property(property="promotions_id",type="string",description="促销活动类型唯一标识",example=""),
- *     @OA\Property(property="name",type="string",description="促销名称",example=""),
- *     @OA\Property(property="promotions_tag",type="string",description="促销活动标签",example="满减"),
- *     @OA\Property(property="description",type="array",description="促销描述",@OA\Items(type="string",example="满100减20，送优惠券；")),
- *  ),
+ * @OA\Schema(
+ *     schema="task_api_dosign_rsp",
+ *     description="用户签到返回",
+ *     @OA\Property(property="reward_type",type="integer",description="奖励类型  1德分、2积分、3优惠券、4幸运大转盘",example=1),
+ *     @OA\Property(property="reward_type_value",type="string",description="奖励数量 优惠券时返回批次号,抽奖返回抽奖编号",example="15/TS0001"),
+ *     @OA\Property(property="trd_seq",type="string",description="奖励发放明细表流水号",example="so19103059292000004090"),
+ *     @OA\Property(property="coupon_end_time",type="string",description="有效期截至时间,优惠券时返回",example="有效期至10:00"),
+ * )
