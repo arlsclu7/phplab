@@ -57,7 +57,15 @@ $arr = [
  * 
  * 
  */
-
+if(  !0 &&
+     !-0 && 
+     !0.0 && 
+     !-0.0 &&
+     !'' &&
+     !'0'
+     ) {
+    echo "都是false";
+}
 $arr = array_combine(range('a','o'),$arr);
 $true = [];
 $false = [];
@@ -75,9 +83,18 @@ foreach($arr as $k=>$v) {
         $not_empty[] = [$k=>$v];
     }
 }
+if(!-0.0) {
+    echo '0.0 为false';
+}
+if (!-0) {
+    echo '\'0\' 为false';
+}
+if (!'0.0') {
+    echo '\'0.0\' 为false';
+}
 
-var_dump($true);
-var_dump($false);
-var_dump($empty);
-var_dump($not_empty);
+// var_dump($true);
+// var_dump($false);
+// var_dump($empty);
+// var_dump($not_empty);
 
